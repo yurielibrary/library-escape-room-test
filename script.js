@@ -3,7 +3,8 @@ function checkAnswer() {
     let correctAnswers = [
         'vw820.3ach /744370',
         'vw820.3ach/744370',
-        'vw820.3 ach 744370'
+        'vw820.3 ach 744370',
+        'vw820.3ach /505353'
 
     ];
 
