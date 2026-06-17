@@ -2,8 +2,7 @@ function checkAnswer() {
     let input = document.getElementById('answer').value.toLowerCase().trim();
     let correctAnswers = [
         'vw820.3ach /744370',
-        'vw820.3ach/744370',
-        'vw820.3 ach 744370',
+        'vw820.3ach /597556',
         'vw820.3ach /505353'
 
     ];
